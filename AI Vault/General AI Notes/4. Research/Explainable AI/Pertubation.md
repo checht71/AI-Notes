@@ -1,0 +1,1 @@
+Perturbation is a technique used in [[Explainable Models Overview|Explainable AI (XAI)]]. The idea behind perturbation is much more simple than it sounds. Perturbation is a nudge in the hyperparameters of a neural network.

@@ -1,0 +1,1 @@
+Residual networks try to address the [[Exploding Gradient]] problem by adding in neural pathways which skip layers. These pathways are called  "skip connections". 

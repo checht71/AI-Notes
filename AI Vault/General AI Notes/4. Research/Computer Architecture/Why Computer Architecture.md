@@ -1,0 +1,1 @@
+You could set yourself apart by learning computer architecture. Every ML engineer has knowledge of data structures. 

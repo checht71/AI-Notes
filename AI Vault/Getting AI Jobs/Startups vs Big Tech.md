@@ -1,0 +1,1 @@
+Startups are good for getting experience, but once you have that experience, you should carry that over to big tech, where you can have stability and better paycheck.
