@@ -1,0 +1,5 @@
+Cross-validation is an #ensemble  method used in model evaluation. In tensorflow, your dataset is split usually into 75% training data and 25% testing data. You can modify those values, but that's usually what it is. But how do we know that the 25% of data is a good representation of the 75% it was trained on? We really don't.
+
+Cross validation sampling essentially just trains the model multiple times based on this split. For example, if you want 25% of your data to be validation data, using this technique you would split your entire dataset into 4 sections and train the model 4 times, using a different section of the data as your validation set. Afterwards, you average out the accuracy from all 4 training sessions, and you have your result. This is also called four-fold cross validation". If we split the dataset into 10 sections it would be called "fen-fold cross validation."
+
+![](https://raw.githubusercontent.com/cleanlab/assets/master/cleanlab/pred_probs_cross_val.png)

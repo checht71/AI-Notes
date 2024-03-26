@@ -1,0 +1,1 @@
+An adversarial attack is a way of fooling an AI model. Data can have noise added to it which can throw off even a robust DNN. Adversarial attacks often have so little noise in them that they are imperceptible to the human eye, but detrimental to neural network predictions.

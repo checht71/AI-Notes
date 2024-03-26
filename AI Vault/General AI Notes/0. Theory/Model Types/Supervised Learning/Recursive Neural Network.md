@@ -1,0 +1,1 @@
+Recursive means a function which calls itself. A recursive neural network is a network which takes information from later layers and feeds them back to previous layers.

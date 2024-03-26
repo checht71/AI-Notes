@@ -1,0 +1,2 @@
+[Link](https://spectrum.ieee.org/catastrophic-forgetting-deep-learning)
+A spiking neural network is an architecture designed to mimic the human brain more closely. This is known as *Neuromorphic Computing*. These neural networks are highly experimental, and may not see results within our lifetimes, but future generations may enjoy the benefits of these networks. This type of network is considered **3rd Wave AI**, meaning that they return to analog computing to create a better simulation of the human brain than digital computers.
