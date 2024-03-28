@@ -49,6 +49,11 @@ Pull files from the cloud to your local branch:
 git pull origin master
 ```
 
+Commit your changes with a message
+```git
+git commit -m "First release of Hello World!"
+```
+
 Push files from your local branch to the cloud:
 ```
 git push -u origin master
