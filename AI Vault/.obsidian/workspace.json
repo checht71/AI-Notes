@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f6cae8c9153474b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Cloud Computing/SSH for Cloud Computing.md",
+                "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
+                "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
+                "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md"
+                "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md"
               }
             }
           }
@@ -159,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3527063270e412b4",
+  "active": "e81da3677ba74fc1",
   "lastOpenFiles": [
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Cloud Computing/SSH for Cloud Computing.md",
+    "General AI Notes/3. Deployment/Flask Deployment",
+    "General AI Notes/2. Training/Hyperparameters/Bayesian Optimization.md",
+    "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Cloud Computing/SSH for Cloud Computing.md",
     "General AI Notes/4. Research/Explainable AI/Replay.md",
     "General AI Notes/4. Research/Explainable AI/Pertubation.md",
     "General AI Notes/4. Research/Explainable AI/Inherent Explainability.md",
@@ -184,9 +174,6 @@
     "General AI Notes/2. Training/Bias.md",
     "General AI Notes/4. Research/Computer Architecture/Why Computer Architecture.md",
     "General AI Notes/4. Research/Computer Architecture/Parallelism in Neural Networks.md",
-    "General AI Notes/4. Research/Computer Architecture/High Performance Cluster.md",
-    "General AI Notes/4. Research/Computer Architecture/Batch Sizes and Running Out of Memory.md",
-    "Getting AI Jobs/Ideas for GitHub Projects.md",
     "General AI Notes/4. Research",
     "General AI Notes/3. Deployment",
     "General AI Notes/2. Training",
