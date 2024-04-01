@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "General AI Notes/3. Deployment/Deploying API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31ec974bf2cb2f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
+                "file": "General AI Notes/3. Deployment/Deploying API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
+                "file": "General AI Notes/3. Deployment/Deploying API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md"
+                "file": "General AI Notes/3. Deployment/Deploying API.md"
               }
             }
           }
@@ -146,12 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e81da3677ba74fc1",
+  "active": "3527063270e412b4",
   "lastOpenFiles": [
-    "General AI Notes/3. Deployment/Flask Deployment",
-    "General AI Notes/2. Training/Hyperparameters/Bayesian Optimization.md",
+    "General AI Notes/3. Deployment/Saving and Loading Models.md",
+    "General AI Notes/3. Deployment/Deploying API.md",
+    "General AI Notes/2. Training/Hyperparameters/Hyperparameter Types.md",
     "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
+    "General AI Notes/2. Training/Hyperparameters/Batch Sizes.md",
+    "General AI Notes/2. Training/Hyperparameters/Bayesian Optimization.md",
+    "General AI Notes/2. Training/Hyperparameters/Hyperparameter Tuning.md",
+    "Notes for Future.md",
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
+    "General AI Notes/3. Deployment/Flask Deployment",
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Cloud Computing/SSH for Cloud Computing.md",
     "General AI Notes/4. Research/Explainable AI/Replay.md",
     "General AI Notes/4. Research/Explainable AI/Pertubation.md",
@@ -169,11 +187,6 @@
     "General AI Notes/1. Datasets/Custom Datasets/Loading Data.md",
     "General AI Notes/0. Theory/Model Types/Supervised Learning/Classification/Convolutional Networks/Convolutional Layer.md",
     "General AI Notes/0. Theory/Fourier Transform.md",
-    "General AI Notes/0. Theory/Glossary.md",
-    "General AI Notes/0. Theory/Artificial Intelligence Overview.md",
-    "General AI Notes/2. Training/Bias.md",
-    "General AI Notes/4. Research/Computer Architecture/Why Computer Architecture.md",
-    "General AI Notes/4. Research/Computer Architecture/Parallelism in Neural Networks.md",
     "General AI Notes/4. Research",
     "General AI Notes/3. Deployment",
     "General AI Notes/2. Training",
@@ -186,7 +199,6 @@
     "Image Dump",
     "Getting AI Jobs/Advice",
     "Getting AI Jobs",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Libraries/Tensorflow",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Libraries/Pytorch"
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Libraries/Tensorflow"
   ]
 }
