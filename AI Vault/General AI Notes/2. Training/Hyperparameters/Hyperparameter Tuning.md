@@ -15,3 +15,8 @@ Random search is just grid search with a shortcut. Instead of sequentially going
 Bayesian optimization is an approach which creates a probabilistic model of the cost given some sets of hyperparameters. Basically what it does is it takes the first batch of random models from random search and predicts based on that which models will be the most accurate. It will predict the orange cost map shown above in figure 2. Then it will train the models which it predicts have the lowest cost.
 
 [Video: A Review of Hyperparameter Tuning Techniques for Neural Networks](https://www.youtube.com/watch?v=5Xh9FusE8iE)
+
+
+### Tuning Methods and Tutorials
+
+[Keras Tuner Tutorial](https://www.youtube.com/watch?v=6Nf1x7qThR8)
