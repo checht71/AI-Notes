@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/Deploying API.md",
+                "file": "General AI Notes/2. Training/ML Techniques/Learning Rate Decay.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31ec974bf2cb2f95",
+            "id": "19ecce7f1a205c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
+                "file": "Keras Tuner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/Deploying API.md",
+                "file": "Keras Tuner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/Deploying API.md",
+                "file": "Keras Tuner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/Deploying API.md"
+                "file": "Keras Tuner.md"
               }
             }
           }
@@ -158,17 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3527063270e412b4",
+  "active": "19ecce7f1a205c80",
   "lastOpenFiles": [
-    "General AI Notes/3. Deployment/Saving and Loading Models.md",
+    "General AI Notes/2. Training/ML Techniques/Learning Rate Decay.md",
+    "Keras Tuner.md",
+    "Getting AI Jobs/Finding the Jobs You Need.md",
+    "General AI Notes/2. Training/Hyperparameters/Learning Rate Optimization.md",
+    "General AI Notes/2. Training/Hyperparameters/Optimizers.md",
+    "General AI Notes/0. Theory/Model Types/Supervised Learning/Classification/Convolutional Networks/Convolutional Layer.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
     "General AI Notes/3. Deployment/Deploying API.md",
+    "General AI Notes/3. Deployment/Saving and Loading Models.md",
     "General AI Notes/2. Training/Hyperparameters/Hyperparameter Types.md",
     "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
     "General AI Notes/2. Training/Hyperparameters/Batch Sizes.md",
     "General AI Notes/2. Training/Hyperparameters/Bayesian Optimization.md",
     "General AI Notes/2. Training/Hyperparameters/Hyperparameter Tuning.md",
     "Notes for Future.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
     "General AI Notes/3. Deployment/Flask Deployment",
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Cloud Computing/SSH for Cloud Computing.md",
     "General AI Notes/4. Research/Explainable AI/Replay.md",
@@ -181,12 +188,6 @@
     "General AI Notes/2. Training/Backpropagation and Loss/Cross Entropy Loss.md",
     "General AI Notes/2. Training/Backpropagation and Loss/Cost & Loss Functions.md",
     "General AI Notes/2. Training/Backpropagation and Loss/Backpropagation.md",
-    "General AI Notes/1. Datasets/Class Imbalance.md",
-    "General AI Notes/1. Datasets/Custom Datasets/Creating Robust Datasets.md",
-    "General AI Notes/1. Datasets/Custom Datasets/Image Labeling.md",
-    "General AI Notes/1. Datasets/Custom Datasets/Loading Data.md",
-    "General AI Notes/0. Theory/Model Types/Supervised Learning/Classification/Convolutional Networks/Convolutional Layer.md",
-    "General AI Notes/0. Theory/Fourier Transform.md",
     "General AI Notes/4. Research",
     "General AI Notes/3. Deployment",
     "General AI Notes/2. Training",
