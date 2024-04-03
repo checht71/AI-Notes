@@ -1,3 +1,4 @@
+[D2L.ai](https://d2l.ai/)
 [Machine Learning Mastery](https://machinelearningmastery.com)
 [Towards Data Science](https://towardsdatascience.com)
 [DeepAI](https://deepai.org/definitions) - Also has [free scientific papers](https://deepai.org/research)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/2. Training/ML Techniques/Learning Rate Decay.md",
+                "file": "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keras Tuner.md",
+                "file": "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keras Tuner.md",
+                "file": "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keras Tuner.md",
+                "file": "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keras Tuner.md"
+                "file": "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Loop.md"
               }
             }
           }
@@ -159,15 +158,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19ecce7f1a205c80",
+  "active": "3527063270e412b4",
   "lastOpenFiles": [
+    "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Learning Overview.md",
+    "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Loop.md",
+    "General AI Notes/0. Theory/Model Types/Learning Types.md",
+    "General AI Notes/Good AI Web Sources.md",
+    "Image Dump/Pasted image 20240403154622.png",
     "General AI Notes/2. Training/ML Techniques/Learning Rate Decay.md",
+    "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
+    "Getting AI Jobs/What Degree Should You Get?.md",
+    "Getting AI Jobs/What Do You Need?.md",
     "Keras Tuner.md",
     "Getting AI Jobs/Finding the Jobs You Need.md",
     "General AI Notes/2. Training/Hyperparameters/Learning Rate Optimization.md",
     "General AI Notes/2. Training/Hyperparameters/Optimizers.md",
     "General AI Notes/0. Theory/Model Types/Supervised Learning/Classification/Convolutional Networks/Convolutional Layer.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
     "General AI Notes/3. Deployment/Deploying API.md",
     "General AI Notes/3. Deployment/Saving and Loading Models.md",
     "General AI Notes/2. Training/Hyperparameters/Hyperparameter Types.md",
@@ -182,12 +189,6 @@
     "General AI Notes/4. Research/Explainable AI/Pertubation.md",
     "General AI Notes/4. Research/Explainable AI/Inherent Explainability.md",
     "General AI Notes/4. Research/Explainable AI/Explainable Models Overview.md",
-    "General AI Notes/4. Research/Explainable AI/Adversarial Attack.md",
-    "General AI Notes/4. Research/Explainable AI/CNN Explainability.md",
-    "General AI Notes/4. Research/State of the Art In ML.md",
-    "General AI Notes/2. Training/Backpropagation and Loss/Cross Entropy Loss.md",
-    "General AI Notes/2. Training/Backpropagation and Loss/Cost & Loss Functions.md",
-    "General AI Notes/2. Training/Backpropagation and Loss/Backpropagation.md",
     "General AI Notes/4. Research",
     "General AI Notes/3. Deployment",
     "General AI Notes/2. Training",
@@ -199,7 +200,6 @@
     "Image Dump/Pasted image 20240321141439.png",
     "Image Dump",
     "Getting AI Jobs/Advice",
-    "Getting AI Jobs",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Libraries/Tensorflow"
+    "Getting AI Jobs"
   ]
 }
