@@ -1,0 +1,1 @@
+The jobs you need will not be on indeed. You need to do research into your respective field, come up with a list of companies, come up with the skills that are in demand for them, find people and events surrounding those companies, and then reach out to those people and attend those events.

@@ -38,3 +38,28 @@ $$\alpha =\alpha_0 \frac{k}{\sqrt{e}}$$
 #### Function 5: Mini-Batch Based
 $$\alpha =\alpha_0 \frac{k}{\sqrt{m}}$$
 This is the same function as the epoch based function, however it is dependent on the variable $m$, which represents the [[Batch Sizes|mini-batch]] number. 
+
+
+
+## Implementation:
+### TensorFlow:
+You can implement learning rate decay using `tf.keras.optimizers.schedules.ExponentialDecay`. There's also cosine decay, polynomial decay, linear decay, etc.
+
+To implement this, you call it and then pass it into your optimizer:
+```python
+initial_learning_rate = 0.1
+lr_schedule = keras.optimizers.schedules.ExponentialDecay(
+    initial_learning_rate,
+    decay_steps=100000,
+    decay_rate=0.96,
+    staircase=True)
+
+model.compile(optimizer=keras.optimizers.SGD(learning_rate=lr_schedule),
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+
+model.fit(data, labels, epochs=5)
+```
+
+[Source](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/schedules/ExponentialDecay)
+

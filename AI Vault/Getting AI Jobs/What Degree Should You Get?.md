@@ -13,6 +13,9 @@ There are a few positions which fall under the general umbrella of "artificial i
 A bachelor's degree will allow you to mostly work on the application side of artificial intelligence, creating AI systems that are pretty basic and fit into the already established science of your time. You take existing concepts, apply them to problems, then deploy the models.
 
 ## Master's
+
+*NEVER PAY FOR GRAD SCHOOL.* Companies and institutions will pay for it!!!!!
+
 Master's will bridge the gap between research and application most likely, or allow you to get more pay for applied ML. You will be able to take existing models and modify them based on the underlying statistics and linear algebra. You do not have to conform to the built in functions of Tensorflow or Pytorch.
 
 >[!tip] You do NOT have to get your master's in the same field that you got your bachelor's. You can go outside of the ECE field and go into computer science or another similar field.
