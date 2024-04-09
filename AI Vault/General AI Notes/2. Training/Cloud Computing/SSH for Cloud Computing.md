@@ -3,8 +3,6 @@
 ssh [OPTIONS] [USER@]:HOST
 ````
 
-
-
 ## Setup
 Checking for ssh
 `ls -al ~/.ssh`

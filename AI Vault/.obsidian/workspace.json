@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3527063270e412b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General AI Notes/3. Deployment/Deploying AI on API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "19ecce7f1a205c80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/2. Training/Hyperparameters/HP Tuning/Keras Tuner.md",
+                "file": "General AI Notes/3. Deployment/Quantization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.50634002685547
+    "width": 200
   },
   "right": {
     "id": "bef2253ca4e93c5a",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/2. Training/Hyperparameters/HP Tuning/Keras Tuner.md",
+                "file": "General AI Notes/3. Deployment/Quantization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/2. Training/Hyperparameters/HP Tuning/Keras Tuner.md",
+                "file": "General AI Notes/3. Deployment/Quantization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/2. Training/Hyperparameters/HP Tuning/Keras Tuner.md"
+                "file": "General AI Notes/3. Deployment/Quantization.md"
               }
             }
           }
@@ -159,18 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19ecce7f1a205c80",
+  "active": "e81da3677ba74fc1",
   "lastOpenFiles": [
-    "General AI Notes/3. Deployment/Deploying AI on API.md",
+    "Image Dump/Quantization.png",
     "General AI Notes/2. Training/Hyperparameters/HP Tuning/Keras Tuner.md",
+    "General AI Notes/3. Deployment/Quantization.md",
+    "General AI Notes/2. Training/Hyperparameters/HP Tuning/Hyperparameter Tuning.md",
+    "General AI Notes/3. Deployment/Saving and Loading Models.md",
+    "General AI Notes/3. Deployment/FastAPI/HTTP Methods.md",
+    "General AI Notes/3. Deployment/FastAPI/FastAPI Overview.md",
+    "General AI Notes/3. Deployment/Deploying AI on API.md",
+    "General AI Notes/3. Deployment/FastAPI",
+    "General AI Notes/3. Deployment/Untitled.md",
+    "General AI Notes/2. Training/Cloud Computing/Cloud Computing Overview.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
+    "General AI Notes/2. Training/Cloud Computing/Azure Guide.md",
+    "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md",
+    "Keras Tuner.md",
     "General AI Notes/2. Training/Hyperparameters/HP Tuning/Learning Rate Optimization.md",
     "General AI Notes/2. Training/Hyperparameters/HP Tuning",
-    "General AI Notes/2. Training/Hyperparameters/HP Tuning/Hyperparameter Tuning.md",
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Object Oriented Programming.md",
     "General AI Notes/2. Training/Structuring Models.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
     "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
-    "General AI Notes/3. Deployment/Saving and Loading Models.md",
     "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Loop.md",
     "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Learning Overview.md",
     "General AI Notes/0. Theory/Model Types/Learning Types.md",
@@ -180,16 +177,8 @@
     "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement",
     "Getting AI Jobs/What Degree Should You Get?.md",
     "Getting AI Jobs/What Do You Need?.md",
-    "Keras Tuner.md",
     "Getting AI Jobs/Finding the Jobs You Need.md",
-    "General AI Notes/2. Training/Hyperparameters/Optimizers.md",
-    "General AI Notes/0. Theory/Model Types/Supervised Learning/Classification/Convolutional Networks/Convolutional Layer.md",
-    "General AI Notes/2. Training/Hyperparameters/Hyperparameter Types.md",
-    "General AI Notes/2. Training/Hyperparameters/Batch Sizes.md",
-    "General AI Notes/2. Training/Hyperparameters/HP Tuning/Bayesian Optimization.md",
-    "Notes for Future.md",
     "General AI Notes/3. Deployment/Flask Deployment",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Cloud Computing/SSH for Cloud Computing.md",
     "General AI Notes/4. Research",
     "General AI Notes/3. Deployment",
     "General AI Notes/2. Training",
@@ -199,7 +188,6 @@
     "Pasted image 20240321141929.png",
     "Image Dump/Pasted image 20240321141359.png",
     "Image Dump/Pasted image 20240321141439.png",
-    "Image Dump",
-    "Getting AI Jobs/Advice"
+    "Image Dump"
   ]
 }
