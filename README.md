@@ -1,7 +1,12 @@
 # Overview
 This is a backup of all of the notes that I have created concerning aritifical intelligence. They were written in obsidian and I highly recommend you download it to view them.
 
-These notes are split up into 5 parts:
+![image](https://github.com/checht71/AI-Notes/assets/123195574/b7e6095f-ed48-44af-ade4-631dc44ea0de)
+Graph view of the notes in Obsidian.
+
+
+
+#### These notes are split up into 5 parts:
 
 ## [Theory](https://github.com/checht71/AI-Notes/tree/main/AI%20Vault/General%20AI%20Notes/0.%20Theory)
 This covers basic mathematical concepts which are the backbone of artificial intelligence. There are 3 big subjects that are key to to learning the mechanisms behind AI: programming, linear algebra, and prob & stat. These topics are covered in these notes. Another thing covered in this section is an overview of the different types of machine learning algorithms in use from CNNs to reinforcement learning algorithms & frameworks. This section also contains a [glossary](https://github.com/checht71/AI-Notes/blob/main/AI%20Vault/General%20AI%20Notes/0.%20Theory/Glossary.md) of AI terms.
