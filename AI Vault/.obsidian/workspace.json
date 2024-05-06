@@ -11,8 +11,12 @@
             "id": "a56032fc34ed7fbd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md"
+              }
             }
           }
         ]
@@ -138,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a56032fc34ed7fbd",
+  "active": "e4e3e03eaaf9a0a8",
   "lastOpenFiles": [
+    "General AI Notes/3. Deployment/Deploying AI on API.md",
+    "General AI Notes/3. Deployment/Technques/Quantization.md",
+    "General AI Notes/3. Deployment/Technques",
+    "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md",
+    "General AI Notes/3. Deployment/API",
     "General AI Notes/3. Deployment/Deploying Models to Production.md",
     "Notes for Future.md",
-    "General AI Notes/3. Deployment/Saving and Loading Models.md",
-    "General AI Notes/3. Deployment/Quantization.md",
-    "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
-    "General AI Notes/3. Deployment/Flask Deployment",
-    "General AI Notes/3. Deployment/FastAPI/HTTP Methods.md",
-    "General AI Notes/3. Deployment/FastAPI/FastAPI Overview.md",
-    "General AI Notes/3. Deployment/FastAPI",
-    "General AI Notes/3. Deployment/Deploying AI on API.md",
+    "General AI Notes/3. Deployment/API/Flask Deployment/Flask Deployment.md",
+    "General AI Notes/3. Deployment/API/Flask Deployment",
+    "General AI Notes/3. Deployment/API/FastAPI/HTTP Methods.md",
+    "General AI Notes/3. Deployment/API/FastAPI/FastAPI Overview.md",
+    "General AI Notes/3. Deployment/API/FastAPI",
     "General AI Notes/3. Deployment/Deployment Techniques/Quantization.md",
     "General AI Notes/3. Deployment/Loading and Predicting.md",
     "General AI Notes/3. Deployment/Deployment Techniques/Saving and Loading Models.md",
