@@ -3,10 +3,6 @@ Essential skill for some [[Data Engineer]] jobs.
 >[!tip] The mindset of Data Pipelining is *how do I make this data easier to work with LATER on down the line as opposed to right now*.
 
 
-
-
-
-
 [Check out this video](https://www.youtube.com/watch?v=4WNz2xrGe8w)
 
 ### Data Pipelining for Tensorflow

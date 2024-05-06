@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md",
+                "file": "General AI Notes/3. Deployment/Deploying for Production.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md",
+                "file": "General AI Notes/3. Deployment/Deploying for Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md",
+                "file": "General AI Notes/3. Deployment/Deploying for Production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md"
+                "file": "General AI Notes/3. Deployment/Deploying for Production.md"
               }
             }
           }
@@ -146,36 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4e3e03eaaf9a0a8",
+  "active": "a56032fc34ed7fbd",
   "lastOpenFiles": [
+    "General AI Notes/3. Deployment/Deployment Techniques/TensorFlow Lite.md",
+    "General AI Notes/3. Deployment/Deploying for Production.md",
     "General AI Notes/3. Deployment/Deploying AI on API.md",
-    "General AI Notes/3. Deployment/Technques/Quantization.md",
-    "General AI Notes/3. Deployment/Technques",
-    "General AI Notes/3. Deployment/Technques/Saving and Loading Models.md",
-    "General AI Notes/3. Deployment/API",
+    "Image Dump/kub.png",
+    "General AI Notes/Good AI Web Sources.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Probability & Statistics/Disjoint.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Other Lagnuages.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Enumerate vs Zip.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Data Pipelining.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Python Glossary.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/PEP 8 Tips.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Object Oriented Programming.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Improving Code Readability.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Boiler Plate Code.md",
+    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Argparse.md",
+    "General AI Notes/3. Deployment/Deployment Techniques/Saving and Loading Models.md",
+    "General AI Notes/3. Deployment/Deployment Techniques/Quantization.md",
+    "General AI Notes/3. Deployment/Deployment Techniques",
+    "General AI Notes/3. Deployment/APIs",
     "General AI Notes/3. Deployment/Deploying Models to Production.md",
     "Notes for Future.md",
-    "General AI Notes/3. Deployment/API/Flask Deployment/Flask Deployment.md",
-    "General AI Notes/3. Deployment/API/Flask Deployment",
-    "General AI Notes/3. Deployment/API/FastAPI/HTTP Methods.md",
-    "General AI Notes/3. Deployment/API/FastAPI/FastAPI Overview.md",
-    "General AI Notes/3. Deployment/API/FastAPI",
+    "General AI Notes/3. Deployment/APIs/Flask Deployment/Flask Deployment.md",
+    "General AI Notes/3. Deployment/APIs/Flask Deployment",
+    "General AI Notes/3. Deployment/APIs/FastAPI/HTTP Methods.md",
+    "General AI Notes/3. Deployment/APIs/FastAPI/FastAPI Overview.md",
+    "General AI Notes/3. Deployment/APIs/FastAPI",
     "General AI Notes/3. Deployment/Deployment Techniques/Quantization.md",
     "General AI Notes/3. Deployment/Loading and Predicting.md",
-    "General AI Notes/3. Deployment/Deployment Techniques/Saving and Loading Models.md",
     "General AI Notes/3. Deployment/Deployment Tricks/Untitled.md",
     "General AI Notes/3. Deployment/Deployment Techniques",
-    "General AI Notes/3. Deployment/Deployment Overview.md",
     "General AI Notes/3. Deployment/API Frameworks",
-    "General AI Notes/3. Deployment/API Frameworks/FastAPI/FastAPI Overview.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
-    "General AI Notes/3. Deployment/API Frameworks/FastAPI/HTTP Methods.md",
-    "Plan.canvas",
-    "Getting AI Jobs/Notes for Future.md",
-    "General AI Notes/3. Deployment/API Frameworks/FastAPI/Starting a FastAPI Server.md",
-    "Getting AI Jobs/Recruiters.md",
-    "General AI Notes/2. Training/Bias.md",
-    "General AI Notes/2. Training/Conv2D Inputs and Outputs.md",
-    "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md"
+    "Plan.canvas"
   ]
 }
