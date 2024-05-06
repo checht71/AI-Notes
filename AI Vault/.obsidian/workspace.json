@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "8b0706843e6d36dc",
+    "id": "c311b73b213914c6",
     "type": "split",
     "children": [
       {
-        "id": "ae624ff0ee650e9d",
+        "id": "aea64878a8b3b299",
         "type": "tabs",
         "children": [
           {
-            "id": "19ecce7f1a205c80",
+            "id": "a56032fc34ed7fbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General AI Notes/3. Deployment/Quantization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e78fe70a3e21448e",
+    "id": "3bf843ff342f95d6",
     "type": "split",
     "children": [
       {
-        "id": "8d701fb51928b4f6",
+        "id": "857ceccdef455983",
         "type": "tabs",
         "children": [
           {
-            "id": "e81da3677ba74fc1",
+            "id": "e4e3e03eaaf9a0a8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +39,12 @@
             }
           },
           {
-            "id": "dd99b6ff111ec98f",
+            "id": "0336e3145e4f1b29",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "7e28d9af7d2cd376",
+            "id": "230ad322e4d9c8ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "bef2253ca4e93c5a",
+    "id": "775c452e6a2e5237",
     "type": "split",
     "children": [
       {
-        "id": "7355ce27ebddde68",
+        "id": "4b975f33d9e3c381",
         "type": "tabs",
         "children": [
           {
-            "id": "3911d74fa4d5d444",
+            "id": "fe8fcb2505219982",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/Quantization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "779a8dc5c15ee090",
+            "id": "b1bc04e85949edf9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/Quantization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "49899ec404f359b6",
+            "id": "ca63f169c79e46c5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "12d3e96e763f1c04",
+            "id": "bff8ce17247b48c0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "General AI Notes/3. Deployment/Quantization.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,48 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e81da3677ba74fc1",
+  "active": "a56032fc34ed7fbd",
   "lastOpenFiles": [
-    "Image Dump/Quantization.png",
-    "General AI Notes/2. Training/Hyperparameters/HP Tuning/Keras Tuner.md",
-    "General AI Notes/3. Deployment/Quantization.md",
-    "General AI Notes/2. Training/Hyperparameters/HP Tuning/Hyperparameter Tuning.md",
+    "General AI Notes/3. Deployment/Deploying Models to Production.md",
+    "Notes for Future.md",
     "General AI Notes/3. Deployment/Saving and Loading Models.md",
+    "General AI Notes/3. Deployment/Quantization.md",
+    "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
+    "General AI Notes/3. Deployment/Flask Deployment",
     "General AI Notes/3. Deployment/FastAPI/HTTP Methods.md",
     "General AI Notes/3. Deployment/FastAPI/FastAPI Overview.md",
-    "General AI Notes/3. Deployment/Deploying AI on API.md",
     "General AI Notes/3. Deployment/FastAPI",
-    "General AI Notes/3. Deployment/Untitled.md",
-    "General AI Notes/2. Training/Cloud Computing/Cloud Computing Overview.md",
+    "General AI Notes/3. Deployment/Deploying AI on API.md",
+    "General AI Notes/3. Deployment/Deployment Techniques/Quantization.md",
+    "General AI Notes/3. Deployment/Loading and Predicting.md",
+    "General AI Notes/3. Deployment/Deployment Techniques/Saving and Loading Models.md",
+    "General AI Notes/3. Deployment/Deployment Tricks/Untitled.md",
+    "General AI Notes/3. Deployment/Deployment Techniques",
+    "General AI Notes/3. Deployment/Deployment Overview.md",
+    "General AI Notes/3. Deployment/API Frameworks",
+    "General AI Notes/3. Deployment/API Frameworks/FastAPI/FastAPI Overview.md",
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
-    "General AI Notes/2. Training/Cloud Computing/Azure Guide.md",
-    "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md",
-    "Keras Tuner.md",
-    "General AI Notes/2. Training/Hyperparameters/HP Tuning/Learning Rate Optimization.md",
-    "General AI Notes/2. Training/Hyperparameters/HP Tuning",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Object Oriented Programming.md",
-    "General AI Notes/2. Training/Structuring Models.md",
-    "General AI Notes/3. Deployment/Flask Deployment/Flask Deployment.md",
-    "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Loop.md",
-    "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Learning Overview.md",
-    "General AI Notes/0. Theory/Model Types/Learning Types.md",
-    "General AI Notes/Good AI Web Sources.md",
-    "Image Dump/Pasted image 20240403154622.png",
-    "General AI Notes/2. Training/ML Techniques/Learning Rate Decay.md",
-    "General AI Notes/0. Theory/Model Types/Unsupervised Learning/Reinforcement",
-    "Getting AI Jobs/What Degree Should You Get?.md",
-    "Getting AI Jobs/What Do You Need?.md",
-    "Getting AI Jobs/Finding the Jobs You Need.md",
-    "General AI Notes/3. Deployment/Flask Deployment",
-    "General AI Notes/4. Research",
-    "General AI Notes/3. Deployment",
-    "General AI Notes/2. Training",
-    "General AI Notes/1. Datasets",
-    "General AI Notes/0. Theory",
-    "Image Dump/Pasted image 20240321141925.png",
-    "Pasted image 20240321141929.png",
-    "Image Dump/Pasted image 20240321141359.png",
-    "Image Dump/Pasted image 20240321141439.png",
-    "Image Dump"
+    "General AI Notes/3. Deployment/API Frameworks/FastAPI/HTTP Methods.md",
+    "Plan.canvas",
+    "Getting AI Jobs/Notes for Future.md",
+    "General AI Notes/3. Deployment/API Frameworks/FastAPI/Starting a FastAPI Server.md",
+    "Getting AI Jobs/Recruiters.md",
+    "General AI Notes/2. Training/Bias.md",
+    "General AI Notes/2. Training/Conv2D Inputs and Outputs.md",
+    "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md"
   ]
 }
