@@ -1,22 +1,58 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: \"General AI Notes/0. Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"General AI Notes/1. Datasets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13802285
+      }
+    },
+    {
+      "query": "path:\"General AI Notes/2. Training\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514622
+      }
+    },
+    {
+      "query": "path:\"General AI Notes/3. Deployment\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"General AI Notes/4. Research\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.44444444444444436,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.44990169091624,
+  "lineSizeMultiplier": 1.37970900511207,
+  "collapse-forces": false,
+  "centerStrength": 0.566709735408123,
+  "repelStrength": 12.2700971855514,
+  "linkStrength": 0.843548115274423,
+  "linkDistance": 283,
+  "scale": 0.6231035066459047,
   "close": true
 }

@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef6cc53d4a63690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "General AI Notes/3. Deployment/Deployment Overview.md",
                 "mode": "source",
                 "source": false
@@ -20,12 +32,12 @@
             }
           },
           {
-            "id": "fc712a5b0166975a",
+            "id": "389eef9fbd5f8e57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/A. Prep the Model/REST APIs/FastAPI/FastAPI Overview.md",
+                "file": "Formatting Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/Deployment Overview.md",
+                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/Deployment Overview.md",
+                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/Deployment Overview.md"
+                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md"
               }
             }
           }
@@ -160,22 +172,32 @@
   },
   "active": "a56032fc34ed7fbd",
   "lastOpenFiles": [
-    "General AI Notes/3. Deployment/A. Prep the Model/Other Tutorials.md",
-    "General AI Notes/3. Deployment/A. Prep the Model/Deployment Frameworks.md",
-    "General AI Notes/3. Deployment/A. Prep the Model/Saving and Loading Models.md",
-    "General AI Notes/3. Deployment/A. Prep the Model/Deployment Optimization/Quantization.md",
-    "General AI Notes/3. Deployment/A. Prep the Model/REST APIs/BentoML.md",
-    "General AI Notes/3. Deployment/A. Prep the Model/Edge Deployment",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Overview.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/Choose a Serving Framework.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks",
     "General AI Notes/3. Deployment/Deployment Overview.md",
+    "General AI Notes/3. Deployment/Saving and Loading Models.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services",
+    "General AI Notes/3. Deployment/Untitled.md",
+    "General AI Notes/3. Deployment/Strategies/Other Tutorials.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML.md",
+    "Formatting Reference.md",
+    "General AI Notes/0. Theory/Fourier Transform.md",
+    "General AI Notes/2. Training/Hyperparameters/Hyperparameter Types.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/FastAPI/FastAPI Overview.md",
+    "General AI Notes/3. Deployment/Strategies/Deployment Optimization/Quantization.md",
+    "General AI Notes/3. Deployment/Strategies/B. Edge Deployment",
     "General AI Notes/2. Training/Structuring Models.md",
-    "General AI Notes/3. Deployment/A. Prep the Model",
+    "General AI Notes/3. Deployment/Strategies",
     "General AI Notes/3. Deployment/A. Pre.md",
-    "General AI Notes/3. Deployment/A. Prep the Model/REST APIs/FastAPI/FastAPI Overview.md",
     "General AI Notes/2. Training/The Basics/Picking Your Framework.md",
     "General AI Notes/2. Training/The Basics/How to Train a Basic Model.md",
     "General AI Notes/2. Training/The Basics",
     "General AI Notes/2. Training/Bias.md",
-    "General AI Notes/3. Deployment/A. Prep the Model/Edge Deployment/TensorFlow Lite.md",
+    "General AI Notes/3. Deployment/Strategies/B. Edge Deployment/TensorFlow Lite.md",
     "Image Dump/kub.png",
     "General AI Notes/Good AI Web Sources.md",
     "General AI Notes/0. Theory/The 3 Fundamentals/Probability & Statistics/Disjoint.md",
@@ -184,17 +206,9 @@
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Enumerate vs Zip.md",
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Data Pipelining.md",
     "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Python Glossary.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/PEP 8 Tips.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Object Oriented Programming.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Improving Code Readability.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Boiler Plate Code.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Argparse.md",
-    "General AI Notes/3. Deployment/A. Prep the Model/Deployment Optimization",
-    "General AI Notes/3. Deployment/A. Prep the Model/REST APIs",
-    "General AI Notes/3. Deployment/A. Prep the Model/REST APIs/Flask Deployment",
-    "General AI Notes/3. Deployment/A. Prep the Model/REST APIs/FastAPI",
-    "General AI Notes/3. Deployment/A. Prep the Model/Deployment Optimization",
-    "General AI Notes/3. Deployment/API Frameworks",
+    "General AI Notes/3. Deployment/Strategies/Deployment Optimization",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/Flask Deployment",
     "Plan.canvas"
   ]
 }

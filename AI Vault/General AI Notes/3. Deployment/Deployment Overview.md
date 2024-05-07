@@ -1,8 +1,9 @@
-[Video source](https://www.youtube.com/watch?v=Mrv3CZNWYEg)
+[main video source](https://www.youtube.com/watch?v=Mrv3CZNWYEg)
 
+Any type of model deployment is known as *model serving*. Model serving is taking a model that you have trained and setting it up so that it can take new inputs from users and return outputs such as predictions.[^1]
 ## Strategies
 #### A. REST API
-Deploy the model on an API service such as [[FastAPI Overview|FastAPI]] or [[Flask Deployment|Flask]]. This is the most common way of deploying an AI model.
+Deploy the model on the web and let users send and receive information. This is done using a [[Choose a Serving Framework|serving framework]]. This is the most common way of deploying an AI model.
 #### B. Edge Deployment
 This is the deployment of an AI model on a small device such as a cell phone or a microcontroller. This can be done using methods like [[Quantization]] or using frameworks such as [[TensorFlow Lite]].
 #### C. Batch Serving
@@ -18,9 +19,11 @@ Create your model, create a flask/FastAPI application for it, wrap it in docker,
 ## Stage 1: Train & Save the Model
 You should know how to do this by now if you're trying to deploy it.
 ## Stage 2: Create a Web App and Dockerize it
-This can be done using any of the REST APIs, but your best bet is to use [[BentoML]].
+This can be done using any of the REST APIs, but your best bet is to use [[BentoML]] since it is optimized for running machine learning models, but you can also use [[FastAPI Overview|FastAPI]] or [[Flask Deployment|Flask]].
 ## Stage 3: Deploy at Scale
 Use a hosting service to take your web app and handle the incoming and outgoing data. These services will also scale the amount of instances open at a single time based on the amount of traffic.
 
 # Strategy B. Edge Deployment
 idk lol but you should definitely [[Quantization|Quantize]] your model so that it can run fast on edge devices and use a framework such as [[TensorFlow Lite]].
+
+[^1]: [How to Serve PyTorch Models with TorchServe](https://www.youtube.com/watch?v=XlO7iQMV3Ik)
