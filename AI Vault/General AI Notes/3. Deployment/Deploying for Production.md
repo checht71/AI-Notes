@@ -8,7 +8,7 @@ This is the deployment of an AI model on a small device such as a cell phone or 
 #### Batch Serving
 Batch serving is manually collecting the data yourself, getting it onto the PC where you trained the model, and running the model on that data for your customer. This is the simplest and least powerful way of deploying a model.
 
-## Basic Deployment
+## Basic REST Deployment
 According to the video I watched, this is the most optimal basic method of deploying an AI.
 ![image](kub.png)
 Create your model, create a flask/FastAPI application for it, wrap it in docker, and then use [kubernetes](https://www.youtube.com/watch?v=PziYflu8cB8) to manage how it is deployed.

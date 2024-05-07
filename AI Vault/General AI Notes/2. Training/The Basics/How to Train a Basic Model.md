@@ -1,0 +1,1 @@
+There are a billion tutorials on how to make a basic model that trains on the MNIST dataset.
