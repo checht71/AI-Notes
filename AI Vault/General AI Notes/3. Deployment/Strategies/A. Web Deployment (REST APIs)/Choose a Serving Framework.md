@@ -8,7 +8,7 @@ Deployment framework within the TensorFlow sphere. Only good for TensorFlow mode
 ## TorchServe
 The [[PyTorch Basics|PyTorch]] version of TensorFlow serving.
 ## ML Flow
-A framework that takes care of the entire life cycle of a machine learning project. ML Flow model is a standard that allows you to package an AI model for production. You can 'dockerize' your AI model easily with this. It can only be easily deployed into SageMaker and [[Azure Guide|Azure]].
+A framework that takes care of the entire life cycle of a machine learning project. ML Flow model is a standard that allows you to package an AI model for production. You can 'dockerize' your AI model easily with this. It can only be easily deployed into SageMaker and [[Azure SSH & Remote Desktop|Azure]].
 ## Seldon
 Another framework that takes care of the entire life cycle of a model. It is the best and easiest out of the 3, but it is not free or open source.
 ## KServe

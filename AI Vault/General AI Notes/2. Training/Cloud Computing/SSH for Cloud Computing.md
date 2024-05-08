@@ -40,7 +40,7 @@ Get GitHub repos setup so that you can easily install the dependencies for your 
 ## Sites that use SSH
 
 #### Azure:
-See [[Azure Guide]]
+See [[Azure SSH & Remote Desktop]]
 You can use thousands of nodes in Azure and set up cloud databases, storage, virtual machines, etc.
 
 There are virtual machines with anaconda set up and installed:

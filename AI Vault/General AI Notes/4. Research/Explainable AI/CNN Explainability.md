@@ -1,7 +1,7 @@
 ### Methods
 Model Specific
 - SHAP Values
-- HEAT maps
+- HEAT maps ([[GradCAMs]])
 - LIME
 - Counterfactual explanation
 - Perturbation

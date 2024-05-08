@@ -29,4 +29,4 @@ $$c_n = \frac{f^n(a)}{n!}$$
 
 
 
-Keep in mind that Taylor Series approximations only work within a very limited range of your x value (this increases slightly with higer orders).
+Keep in mind that Taylor Series approximations only work within a very limited range of your x value (this increases slightly with higher orders).

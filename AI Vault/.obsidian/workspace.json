@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a56032fc34ed7fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ef6cc53d4a63690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/Deployment Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "389eef9fbd5f8e57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formatting Reference.md",
+                "file": "General AI Notes/4. Research/Explainable AI/Adversarial Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.50649642944336
+    "width": 231.50649642944336
   },
   "right": {
     "id": "775c452e6a2e5237",
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md",
+                "file": "General AI Notes/4. Research/Explainable AI/Adversarial Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md",
+                "file": "General AI Notes/4. Research/Explainable AI/Adversarial Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md"
+                "file": "General AI Notes/4. Research/Explainable AI/Adversarial Attack.md"
               }
             }
           }
@@ -170,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a56032fc34ed7fbd",
+  "active": "0ef6cc53d4a63690",
   "lastOpenFiles": [
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Overview.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/Docker Overview.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/Choose a Serving Framework.md",
+    "General AI Notes/4. Research/Explainable AI/Explainable Models Overview.md",
+    "General AI Notes/4. Research/Explainable AI/CNN Explainability.md",
+    "General AI Notes/4. Research/Explainable AI/Visualization Videos.md",
+    "General AI Notes/4. Research/Explainable AI/Saliency Techniques.md",
+    "General AI Notes/4. Research/Explainable AI/Pertubation.md",
+    "General AI Notes/4. Research/Explainable AI/Replay.md",
+    "General AI Notes/4. Research/Explainable AI/Inherent Explainability.md",
+    "General AI Notes/4. Research/Explainable AI/GradCAMs.md",
+    "General AI Notes/4. Research/Explainable AI/Adversarial Attack.md",
+    "General AI Notes/0. Theory and Intro/Artificial Intelligence Overview.md",
+    "Image Dump/Pasted image 20240508145107.png",
+    "General AI Notes/4. Research/Computer Architecture/Why Computer Architecture.md",
+    "General AI Notes/4. Research/Computer Architecture/Parallelism in Neural Networks.md",
+    "General AI Notes/4. Research/Computer Architecture/High Performance Cluster.md",
+    "General AI Notes/4. Research/Computer Architecture/Batch Sizes and Running Out of Memory.md",
+    "General AI Notes/Good AI Web Sources.md",
+    "Reinforcement Learning.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Learning Types.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Learning Overview.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Unsupervised Learning/Reinforcement/Reinforcement Loop.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Supervised Learning/Classification/Convolutional Networks/Convolutional Networks.md",
+    "General AI Notes/0. Theory and Intro/Glossary.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Other Lagnuages.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Enumerate vs Zip.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Data Pipelining.md",
+    "General AI Notes/0. Theory and Intro/Other Math Concepts",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Kubernetes",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/AWS",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks",
-    "General AI Notes/3. Deployment/Deployment Overview.md",
-    "General AI Notes/3. Deployment/Saving and Loading Models.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services",
-    "General AI Notes/3. Deployment/Untitled.md",
-    "General AI Notes/3. Deployment/Strategies/Other Tutorials.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML.md",
-    "Formatting Reference.md",
-    "General AI Notes/0. Theory/Fourier Transform.md",
-    "General AI Notes/2. Training/Hyperparameters/Hyperparameter Types.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/FastAPI/FastAPI Overview.md",
-    "General AI Notes/3. Deployment/Strategies/Deployment Optimization/Quantization.md",
     "General AI Notes/3. Deployment/Strategies/B. Edge Deployment",
-    "General AI Notes/2. Training/Structuring Models.md",
     "General AI Notes/3. Deployment/Strategies",
-    "General AI Notes/3. Deployment/A. Pre.md",
-    "General AI Notes/2. Training/The Basics/Picking Your Framework.md",
-    "General AI Notes/2. Training/The Basics/How to Train a Basic Model.md",
-    "General AI Notes/2. Training/The Basics",
-    "General AI Notes/2. Training/Bias.md",
-    "General AI Notes/3. Deployment/Strategies/B. Edge Deployment/TensorFlow Lite.md",
     "Image Dump/kub.png",
-    "General AI Notes/Good AI Web Sources.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Probability & Statistics/Disjoint.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Other Lagnuages.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Git & Github.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Enumerate vs Zip.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Data Pipelining.md",
-    "General AI Notes/0. Theory/The 3 Fundamentals/Programming/Python/Python Coding Tips/Python Glossary.md",
-    "General AI Notes/3. Deployment/Strategies/Deployment Optimization",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/Flask Deployment",
     "Plan.canvas"
   ]
 }

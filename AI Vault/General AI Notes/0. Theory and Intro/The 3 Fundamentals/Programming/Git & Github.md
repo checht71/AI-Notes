@@ -22,17 +22,17 @@ Push - update main project
 ## Publish Repository
 1. Navigate to a folder where you are keeping your code.
 2. Initialize Git
-```git
+```bash
 git init
 ```
 Doing this will create a repository. This means that there is now a hidden folder keeping track of changes that you make to the code.
 ## Check Which Files are Being Tracked
 Just because you create a repository does not mean that every file is necessarily being tracked. New files you create after running Git init may be seen by git, but changes to these files will not be recorded. To double check which files are being tracked use the following command:
-```git
+```bash
 git status
 ```
 If a file is missing, you can add it to the tracked files using:
-```git
+```bash
 git add <filename>
 ```
 
@@ -40,26 +40,33 @@ you can also say `git add .` to add everything in your current file directory
 ## Create a Branch
 [Source](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 
-```git
+```bash
 git remote add origin <link to repo>
 ```
 
 Pull files from the cloud to your local branch:
-```git
+```bash
 git pull origin master
 ```
 
 Commit your changes with a message
-```git
+```bash
 git commit -m "First release of Hello World!"
 ```
 
 Push files from your local branch to the cloud:
-```
+```bash
 git push -u origin master
 ```
 
 Download a new copy of your repo:
-```git
+```bash
 git clone <repo>
+```
+
+
+### Force Push
+Sometimes when pushing it will spazz out when you try and upload modified files. If you want to force push and overwrite what's in the remote, use the following command:
+```bash
+git push --set-upstream origin master --force
 ```
