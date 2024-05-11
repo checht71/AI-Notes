@@ -19,7 +19,7 @@ Create your model, create a flask/FastAPI application for it, wrap it in docker,
 ## Stage 1: Train & Save the Model
 You should know how to do this by now if you're trying to deploy it.
 ## Stage 2: Create a Web App and Dockerize it
-This can be done using any of the REST APIs, but your best bet is to use [[BentoML]] since it is optimized for running machine learning models, but you can also use [[FastAPI Overview|FastAPI]] or [[Flask Deployment|Flask]].
+This can be done using any of the REST APIs, but your best bet is to use [[BentoML Dev Process]] since it is optimized for running machine learning models, but you can also use [[FastAPI Overview|FastAPI]] or [[Flask Deployment|Flask]].
 ## Stage 3: Deploy at Scale
 Use a hosting service to take your web app and handle the incoming and outgoing data. These services will also scale the amount of instances open at a single time based on the amount of traffic.
 

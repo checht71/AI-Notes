@@ -1,4 +1,4 @@
-This is just a bunch of advice that I've seen online related to machine learning engineering.
+This is just a bunch of advice that I've seen in online comments related to machine learning engineering.
 
 
 ### [1. MLE Degree and Salary](https://www.reddit.com/r/MachineLearning/comments/185y5wn/d_machine_learning_engineer_salary_increase/)

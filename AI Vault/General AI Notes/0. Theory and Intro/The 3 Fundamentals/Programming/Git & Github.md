@@ -64,9 +64,15 @@ Download a new copy of your repo:
 git clone <repo>
 ```
 
-
+## "Debugging"
 ### Force Push
 Sometimes when pushing it will spazz out when you try and upload modified files. If you want to force push and overwrite what's in the remote, use the following command:
 ```bash
 git push --set-upstream origin master --force
+```
+
+### Master -> Main
+Sometimes github will set up the local version of a repo as "master" when you initialize it. This is an old convention and should be changed to "main", which is what the online repo will use. You can switch it over using the following command:
+```bash
+git branch -m master main
 ```
