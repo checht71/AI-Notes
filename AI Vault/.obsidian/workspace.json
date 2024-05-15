@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
+                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/AutoGrad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
+                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/AutoGrad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
+                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/AutoGrad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md"
+                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/AutoGrad.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4e3e03eaaf9a0a8",
+  "active": "0ef6cc53d4a63690",
   "lastOpenFiles": [
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Inputs & Outputs in Bento.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/PyTorch Basics.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/AutoGrad.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/PyTorch vs Tensorflow.md",
+    "General AI Notes/4. Research/Generative AI Glass Ceiling.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Inputs & Outputs in Bento.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML 2.md",
     "Getting AI Jobs/Advice/Articles.md",
     "Getting AI Jobs/Advice/Generalists Do Not Succeed.md",
@@ -171,10 +175,6 @@
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Azure SSH & Remote Desktop.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/AWS/AWS Overview.md",
     "General AI Notes/4. Research/Computer Architecture/High Performance Computing.md",
-    "General AI Notes/2. Training/Cloud Computing/Cloud Computing Overview.md",
-    "General AI Notes/4. Research/Computer Architecture/Batch Sizes and Running Out of Memory.md",
-    "General AI Notes/4. Research/Explainable AI/Adversarial Attack.md",
-    "General AI Notes/4. Research/Explainable AI/Explainable Models Overview.md",
     "Image Dump/Pasted image 20240508145107.png",
     "General AI Notes/0. Theory and Intro/Other Math Concepts",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Kubernetes",
