@@ -12,6 +12,8 @@ There are a few positions which fall under the general umbrella of "artificial i
 
 A bachelor's degree will allow you to mostly work on the application side of artificial intelligence, creating AI systems that are pretty basic and fit into the already established science of your time. You take existing concepts, apply them to problems, then deploy the models.
 
+
+Note: higher education will be more difficult if you go into the industry. Time management with a stable job is gonna be challenging.
 ## Master's
 
 *NEVER PAY FOR GRAD SCHOOL.* Companies and institutions will pay for it!!!!!

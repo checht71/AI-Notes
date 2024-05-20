@@ -8,12 +8,8 @@ There are many different ways to optimize learning rate. This section will go ov
 
 
 Simply picking a learning rate and adding decay will not always provide you with the best results. You can program specific methods the allow the network to learn its own learning rate.
-# 1. 100 Epochs
-According to [this tutorial](https://towardsdatascience.com/how-to-optimize-learning-rate-with-tensorflow-its-easier-than-you-think-164f980a7c7b), the easiest way to optimize learning rate is to just run the model for 100 epochs and increase it a little each time[Link](https://towardsdatascience.com/how-to-optimize-learning-rate-with-tensorflow-its-easier-than-you-think-164f980a7c7b). Needless to say, this is computationally expensive.
 
-# 2. Regular Training
-This is the most common way to train a CNN. Start with an initial learning rate called `max_lr`, then decay by a factor of 10 each time the validation loss plateaus after an epoch. Obviously, this is only good if you're training for a lot of epochs.
-The paper [[Training Deep Learning Models with Small Datasets]] states that the best learning rate is 
-
+If your loss begins to plateau after a few epochs or goes down very slowly and linearly, try and increase your learning rate.
+If your loss becomes sporadic and jumpy, try and decrease it.
 
 [^1]: https://medium.com/analytics-vidhya/learning-rate-decay-and-methods-in-deep-learning-2cee564f910b

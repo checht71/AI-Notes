@@ -1,0 +1,7 @@
+The 3 fundamentals are the core math concepts underlying all neural networks. You can technically make a neural network without knowing any of this using some sort of AI creation software, but if you want to go under the hood at all you really need to be familiar with some of this. 
+
+The most obvious and important is programming. You will need some kind of background in a language like Python or R in order to make your own model. Everything that you implement from the data pipeline to the output is specified in a programming language.
+
+The second is Prob & Stat. Any AI model is a prediction machine, and probability and statistics is the study of such predictions. How does your model predict one thing and not another? How do you do hyperparameter tuning? How does your model know how much it needs to learn? It's all Prob & Stat.
+
+The third is Linear Algebra. In order to do calculations, your model is manipulating [[Tensors]] which are multidimensional matrices. Neural networks only accept tensors as inputs, so you have to convert images, sound data, etc. in your data pipeline. Linear Algebra is also important for setting up your layer parameters in frameworks like PyTorch because you need to specify the dimensions of your input and output tensors.
