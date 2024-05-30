@@ -1,4 +1,4 @@
-Essential skill for some [[Data Engineer]] jobs.
+Essential skill for some [[Data Engineer]] jobs. This is supposed to be more of an overview of how the process works. There is no one way to do data pipelining. One way I would recommend doing it if you are using PyTorch is using a [[Custom Datasets|cou]]
 
 >[!tip] The mindset of Data Pipelining is *how do I make this data easier to work with LATER on down the line as opposed to right now*.
 

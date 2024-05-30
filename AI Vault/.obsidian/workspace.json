@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6519466df78e15",
+        "id": "2d5a4e0e3f187896",
         "type": "tabs",
         "children": [
           {
-            "id": "8904969c126dfbe3",
+            "id": "e1392b41d1f806c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/What are the 3 Fundamentals?.md",
+                "file": "General AI Notes/1. Datasets/Custom Datasets/Custom Datasets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/What are the 3 Fundamentals?.md",
+                "file": "General AI Notes/1. Datasets/Custom Datasets/Custom Datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/What are the 3 Fundamentals?.md",
+                "file": "General AI Notes/1. Datasets/Custom Datasets/Custom Datasets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/What are the 3 Fundamentals?.md"
+                "file": "General AI Notes/1. Datasets/Custom Datasets/Custom Datasets.md"
               }
             }
           }
@@ -146,35 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8904969c126dfbe3",
+  "active": "e1392b41d1f806c3",
   "lastOpenFiles": [
-    "General AI Notes/2. Training/Hyperparameters/HP Tuning/Learning Rate Optimization.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/What are the 3 Fundamentals?.md",
-    "Getting AI Jobs/Types of Jobs in AI.md",
-    "Getting AI Jobs/What Degree Should You Get?.md",
-    "Getting AI Jobs/Startups vs Big Tech.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Data Pipelining.md",
+    "General AI Notes/1. Datasets/Loading Data.md",
+    "General AI Notes/1. Datasets/Custom Datasets/Custom Datasets.md",
+    "General AI Notes/1. Datasets/Custom Datasets/Loading Data.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Notes.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Inputs & Outputs in Bento.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Bento Command Guide.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/What is Docker?.md",
+    "Creates Notes/Summer 2024 To Do.md",
+    "Creates Notes/Best HyperParameters.md",
+    "SSH Tunneling.md",
+    "Creates Notes",
+    "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md",
+    "Getting AI Jobs/Places to Search.md",
     "Getting AI Jobs/Ideologies of Tech Companies.md",
     "Getting AI Jobs/Ideas for GitHub Projects.md",
     "Getting AI Jobs/Finding the Jobs You Need.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/What are the 3 Fundamentals?.md",
+    "General AI Notes/2. Training/Hyperparameters/HP Tuning/Learning Rate Optimization.md",
+    "Getting AI Jobs/Types of Jobs in AI.md",
+    "Getting AI Jobs/What Degree Should You Get?.md",
+    "Getting AI Jobs/Startups vs Big Tech.md",
     "General AI Notes/1. Datasets/Dataset Issues/Catastrophic Forgetting.md",
     "General AI Notes/0. Theory and Intro/Model Types/Neuromorphic/Spiking Neural Network.md",
     "General AI Notes/1. Datasets/Dataset Issues/Class Imbalance.md",
     "General AI Notes/1. Datasets/Dataset Issues",
     "General AI Notes/4. Research/Explainable AI/Replay.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/PyTorch Basics.md",
-    "General AI Notes/2. Training/Hyperparameters/Optimizers.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/AutoGrad.md",
-    "General AI Notes/0. Theory and Intro/Other Math Concepts/Gradient.md",
-    "General AI Notes/2. Training/Backpropagation and Loss/Backpropagation.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/PyTorch vs Tensorflow.md",
-    "General AI Notes/4. Research/Generative AI Glass Ceiling.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Inputs & Outputs in Bento.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML 2.md",
-    "Getting AI Jobs/Advice/Articles.md",
-    "Getting AI Jobs/Advice/Generalists Do Not Succeed.md",
-    "Getting AI Jobs/Advice/Dr Chak Advice.md",
-    "Getting AI Jobs/Advice/Don't Settle.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML",
     "Image Dump/Pasted image 20240508145107.png",
     "General AI Notes/0. Theory and Intro/Other Math Concepts",
@@ -184,7 +185,6 @@
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services",
     "Image Dump/kub.png",
     "Plan.canvas"
   ]
