@@ -50,3 +50,7 @@ for epoch in epochs:
 
 model.eval()
 ```
+
+
+#### Things to Consider:
+`__getitem__` must return tensors, numpy arrays, numbers, dicts or lists or else it will throw an error.
