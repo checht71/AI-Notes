@@ -7,3 +7,8 @@ This is just a bunch of advice that I've seen in online comments related to mach
 If you don’t feel adequate on your knowledge to be high performing in the field, you could always self study or choose to get a graduate degree. If you want to go to the research side of things then you definitely will need a higher degree."
 
 "I'm not in industry, but I can tell you that I made pretty much exactly your salary ($76k) as an intern when I was at the Masters level and doing my PhD. This was a non-FAANG company. I hope that helps to give you some idea."
+
+### Other Advice:
+>Used to screen resumes for small companies. Job "requirements" are more of a wish-list situation. Never let some unchecked boxes deter you from applying - you have no idea what the applicant pool is like. The biggest boon, especially at small companies, is someone who legitimately cares.
+
+> Electrical Engineer. To you young people… YOU NEED TO CHANGE COMPANIES. Whenever you feel like you are 1) taking on new roles without your pay increasing significantly or 2) if you feel ready to take on new roles. You will never keep pace with inflation or get ahead at one employer.

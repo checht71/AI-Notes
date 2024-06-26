@@ -91,7 +91,7 @@ Visit the libraries of Scikitlearn, Keras or Tensorflow, you will find even more
 # Logging
 In order to actually track and monitor these metrics, you have to use a #logger. A logger is basically just a way of tracking these metrics. There are a few different ones you can use.
 [[Weights and Biases Logging]]: this is one of the most powerful. If you have an online account, it will save data from every run to your profile (up to 100 GB worth) for you to view at any time.
-- Tensorboard: this is Tensorflow's built in logger.
+- [[Tensorboard]]: this is Tensorflow's built in logger.
 - Console Logging: The one you're probably most familiar with. It just outputs the metrics into the console.
 - Text Logging: The same thing as console logging, but just exported to a text file.
 

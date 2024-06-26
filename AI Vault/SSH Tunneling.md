@@ -1,8 +1,9 @@
 This is a method of port forwarding you can use so that you can use Jupyter Notebook on your remote server from your local computer.
 
-If you are using Lambda Labs, you will have to update jupyter notebook
+If you are using Lambda Labs, you will have to update jupyter notebook.
+`sudo apt update notebook`
 
-If you do not see the token, ssh in with a new terminal and type `jupyter notebook list`.
+If you do not see the token, ssh in with a new terminal and type `jupyter notebook list` or `jupyter server list.
 Keep this window open, you will need to copy the token in order to open the notebook properly.
 
 [Video: Run Jupyter notebook from a remote server](https://www.youtube.com/watch?v=ZhVdA2jSCuA)

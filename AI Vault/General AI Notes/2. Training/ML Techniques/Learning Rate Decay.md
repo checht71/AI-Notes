@@ -63,3 +63,18 @@ model.fit(data, labels, epochs=5)
 
 [Source](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/schedules/ExponentialDecay)
 
+### PyTorch:
+In order to use a learning rate scheduler in PyTorch, you need to call the scheduler and pass the optimizer into it.
+```python
+optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
+scheduler = torch.optim.lr_scheduler.ExponentialLR(optimizer=optimizer, gamma=0.1, last_epoch=-1, verbose='deprecated')
+```
+
+After that, you need to call `scheduler.step()` after every training loop. Here's so psudeocode.
+
+```python
+for epoch in range(epochs):
+	train_one_epoch()
+	sheduler.step() # < update lr
+	validation_step()
+```
