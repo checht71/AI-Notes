@@ -1,6 +1,11 @@
-
 ## Overview
-Regression is the relationship between 2 things, particularly how an independent variable affects a dependent variable.
+Regression is the relationship between 2 things, particularly how an independent variable affects a dependent variable. The relationship between them can literally be a line that averages out all of the data points.
+
+The upside of these algorithms is that they're simple. The downside of these algorithms is that they're simple. 
+
+In the example below, we look at statistical data between salary and years of experience. We draw a line that represents the average of all of the datapoints and we can use that line to predict a new data point. From the line, we can predict that someone with 6 years experience will make roughly $80k a year.
+
+![[Linear Regression.png]]
 
 "Any equation, that is a function of the dependent variables and a set of weights is called a regression function." [^1]
 

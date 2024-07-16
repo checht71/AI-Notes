@@ -1,0 +1,1 @@
+In order to communicate with REST APIs, you're going to have to send and receive info using JSON Requests. This can be done manually or preferably by using a python program to create and manage the requests for you.

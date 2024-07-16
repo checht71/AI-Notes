@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/How to Deploy Docker Containers in Azure.md",
+                "file": "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering/K Means.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/How to Deploy Docker Containers in Azure.md",
+                "file": "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering/K Means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/How to Deploy Docker Containers in Azure.md",
+                "file": "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering/K Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/How to Deploy Docker Containers in Azure.md"
+                "file": "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering/K Means.md"
               }
             }
           }
@@ -148,44 +148,51 @@
   },
   "active": "e1392b41d1f806c3",
   "lastOpenFiles": [
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Notes.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/How to Deploy Docker Containers in Azure.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Bento Command Guide.md",
+    "Get.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering/K Means.md",
+    "Pasted image 20240715195141.png",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Classification/Binary Decision Trees.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Classification/K-Nearest Neighbor (KNN).md",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Classification",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering/t-SNE.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Regression/Logistic Regression.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Regression/Elastic Net.md",
+    "Image Dump/Logistic Regression.png",
+    "Pasted image 20240715194655.png",
+    "Pasted image 20240715194652.png",
     "SSH Tunneling.md",
-    "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md",
-    "General AI Notes/2. Training/ML Techniques/Learning Rate Decay.md",
-    "Getting AI Jobs/Advice/Clippings.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python/Libraries/Pytorch/PyTorch Lightning.md",
-    "General AI Notes/2. Training/Model Evaluation/Logging/Tensorboard.md",
-    "General AI Notes/2. Training/Model Evaluation/Model Evaluation.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Supervised Learning/Classification/Convolutional Networks/Global Pooling Layer.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Supervised Learning/Classification/Convolutional Networks/Max Pooling Layers.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Supervised Learning/Classification/Convolutional Networks/Convolutional Layer.md",
-    "General AI Notes/1. Datasets/Custom Datasets/Custom Datasets.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Inputs & Outputs in Bento.md",
-    "Creates Notes/Summer 2024 To Do.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Data Pipelining.md",
-    "General AI Notes/1. Datasets/Loading Data.md",
-    "General AI Notes/1. Datasets/Custom Datasets/Loading Data.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker/What is Docker?.md",
-    "Creates Notes/Best HyperParameters.md",
+    "Image Dump/Binary Decision Tree.png",
+    "Image Dump/Linear Regression.png",
+    "Image Dump/GradCAM.png",
+    "Image Dump/Pasted image 20240403154622.png",
+    "Image Dump/Pasted image 20240321141925.png",
+    "Image Dump/Pasted image 20240321141439.png",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Regression/Linear Regression.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Unsupervised Learning/Autoencoders.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Learning Types.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Boosting/Boosting.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Generative/Generative Adversarial Network.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Residual Networks.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/LLMs",
+    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Recursive Neural Network.md",
+    "Getting AI Jobs/Courses With Certs.md",
+    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Object Detection",
+    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks",
+    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning",
+    "General AI Notes/0. Theory and Intro/Model Types/Untitled.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/Creating a JSON Request.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Cert Course/Course Links.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Cert Course/1. Getting Started.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/How to Deploy Docker Containers in Azure.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Azure SSH & Remote Desktop.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Cert Course/0. Overview.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Cert Course",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Notes.md",
     "Creates Notes",
-    "Getting AI Jobs/Places to Search.md",
-    "Getting AI Jobs/Ideologies of Tech Companies.md",
-    "Getting AI Jobs/Ideas for GitHub Projects.md",
-    "Getting AI Jobs/Finding the Jobs You Need.md",
     "General AI Notes/1. Datasets/Dataset Issues",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML",
-    "Image Dump/Pasted image 20240508145107.png",
-    "General AI Notes/0. Theory and Intro/Other Math Concepts",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Kubernetes",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/AWS",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/II. Docker",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks",
-    "Image Dump/kub.png",
     "Plan.canvas"
   ]
 }

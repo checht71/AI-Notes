@@ -48,6 +48,12 @@ Pull files from the cloud to your local branch:
 ```bash
 git pull origin master
 ```
+Note: sometimes if you pull from a repo that you have included a license in it will give you an error. You can still pull from it with the `--allow-unrelated-histories` tag.
+```bash
+git pull origin main --allow-unrelated-histories
+
+```
+
 
 Commit your changes with a message
 ```bash
