@@ -1,4 +1,4 @@
-![[Pasted image 20240715195141.png|600]]
+![[K Means Clustering.png|600]]
 
 #### Here's the algorithm in a nutshell:
 _Setup_

@@ -12,3 +12,7 @@ Transformers take the input sequence and split it into elements much like the ol
 >  Transformers are ***layers*** of a network much like convolutional layers. This allows for classification applications such as Vision Transformers (ViTs). CNNs are Naive Neural Networks with convolutional layers added to them, ViTs are Convolutional Networks with Transformer layers added on top.
 >  [More on ViTs here](https://towardsdatascience.com/are-transformers-better-than-cnns-at-image-recognition-ced60ccc7c8)
 
+### Word Embedding
+Word Embedding is transforming words into numbers. It is the underpinning of all LLMs. The words are embedded by their spelling as well as their position within a sentence. Words that are commonly used within the same context are more closely clustered within these embeddings.
+
+![[Word Embeddings LLM.png]]
