@@ -1,0 +1,1 @@
+Hopsworks is a [[Feature Storing]] service that's open source. It can also be used for managing and [[Choose a Serving Framework|serving]] models. The biggest feature of hopsworks is as a data pipeline.

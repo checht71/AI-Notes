@@ -1,0 +1,1 @@
+Blob storage is just a method of storage in Azure. 

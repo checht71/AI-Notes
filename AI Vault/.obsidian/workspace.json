@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5a4e0e3f187896",
+        "id": "5eb6052f17c4210d",
         "type": "tabs",
         "children": [
           {
-            "id": "e1392b41d1f806c3",
+            "id": "3239f2731ce3c75d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Commit Messages.md",
+                "file": "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.50649642944336,
-    "collapsed": true
+    "width": 376.50649642944336
   },
   "right": {
     "id": "775c452e6a2e5237",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Commit Messages.md",
+                "file": "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Commit Messages.md",
+                "file": "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Commit Messages.md"
+                "file": "General AI Notes/3. Deployment/ML Ops/HopsWorks.md"
               }
             }
           }
@@ -149,52 +148,51 @@
   },
   "active": "e4e3e03eaaf9a0a8",
   "lastOpenFiles": [
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Git & Github.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Commit Messages.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github",
+    "Formatting Reference.md",
+    "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
+    "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
+    "Image Dump/Pasted image 20240726150403.png",
+    "General AI Notes/3. Deployment/ML Ops/Concept Drift.md",
+    "General AI Notes/3. Deployment/ML Ops/Feature Storing.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python Logging.md",
+    "General AI Notes/3. Deployment/ML Ops",
+    "General AI Notes/Good AI Web Sources.md",
+    "General AI Notes/3. Deployment/ML Ops/Data and Model Versioning.md",
+    "General AI Notes/0. Theory and Intro/Artificial Intelligence Overview.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Choose a Serving Framework.md",
+    "General AI Notes/3. Deployment/ML Ops/Automation.md",
+    "Getting AI Jobs/Notes for Future.md",
+    "MLOps",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/SSH Tunneling.md",
+    "Paper.md",
+    "General AI Notes/0. Theory and Intro/Glossary.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/Other Serving Frameworks.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Azure Blob Storage.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/How to Deploy Docker Containers in Azure.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Bento Command Guide.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Azure SSH & Remote Desktop.md",
+    "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Commit Messages.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Git & Github.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github",
     "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Regression/Logistic Regression.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Transformers/Transformer Models.md",
     "Image Dump/Word Embeddings LLM.png",
-    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Object Detection/Mask rCNN/About Mask r-CNN.md",
     "Image Dump/K Means Clustering.png",
-    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering/K Means.md",
-    "Get.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Classification/Binary Decision Trees.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Classification/K-Nearest Neighbor (KNN).md",
     "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Classification",
-    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering/t-SNE.md",
     "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Clustering",
-    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Regression/Elastic Net.md",
     "Image Dump/Logistic Regression.png",
     "Pasted image 20240715194655.png",
     "Pasted image 20240715194652.png",
-    "SSH Tunneling.md",
     "Image Dump/Binary Decision Tree.png",
     "Image Dump/Linear Regression.png",
     "Image Dump/GradCAM.png",
     "Image Dump/Pasted image 20240403154622.png",
-    "Image Dump/Pasted image 20240321141925.png",
-    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Regression/Linear Regression.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Unsupervised Learning/Autoencoders.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Learning Types.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Boosting/Boosting.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Generative/Generative Adversarial Network.md",
-    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Residual Networks.md",
     "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Transformers",
-    "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Recursive Neural Network.md",
-    "Getting AI Jobs/Courses With Certs.md",
     "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Object Detection",
     "General AI Notes/0. Theory and Intro/Model Types/Neural Networks",
     "General AI Notes/0. Theory and Intro/Model Types/Machine Learning",
-    "General AI Notes/0. Theory and Intro/Model Types/Untitled.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/Creating a JSON Request.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Cert Course/Course Links.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Cert Course/1. Getting Started.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Cert Course",
-    "Creates Notes",
-    "General AI Notes/1. Datasets/Dataset Issues",
     "Plan.canvas"
   ]
 }

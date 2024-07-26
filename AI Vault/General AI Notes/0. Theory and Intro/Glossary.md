@@ -106,3 +106,5 @@
 #
 
 #full-stack: someone who does *both* front-end and back-end work.
+
+artifact: A bit of information from the training process we can use to recreate a model. This can include weights and biases, configuration, preprocessing modules, environment information, etc. This 

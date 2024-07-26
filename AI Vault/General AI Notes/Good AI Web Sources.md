@@ -1,6 +1,13 @@
 >[!tip] 
 >These are some great resources to learn more about AI that I've found across the web. I really think that you should take a look!
 
+
+## [Made With ML](https://madewithml.com/#mlops)
+This is an amazing resource for ML Ops! Usually there's not a ton of information about pipelining and deployment. This is one of the few great sources you have!! This is truly a start to finish guide on machine learning from the dataset to the cloud.
+
+## [MLOps Guide](https://mlops-guide.github.io/)
+One of the few guides on MLOps. 
+
 ## [Anna's Archive](https://annas-archive.org/)
 DO NOT PAY FOR COLLEGE TEXTBOOKS OR SCIENTIFIC PAPERS BEFORE CHECKING HERE. 
 ## [D2L.ai](https://d2l.ai/)
@@ -13,6 +20,8 @@ Towards Data Science is an AI newsletter. It has a lot of tutorials, job advice,
 Has a [Practical Course on Deep Learining](https://course.fast.ai/) for intermediate to advanced users
 ## [DeepAI](https://deepai.org/definitions)
 Has a great page of definitions of AI terminology. Also has [free scientific papers](https://deepai.org/research)
+
+## [MLOps.org](https://ml-ops.org/content/mlops-principles#automation)
 # Helpful Code Repositories:
 ### [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection/)
 This is a collection of machine learning models for you to pick apart and play with.
