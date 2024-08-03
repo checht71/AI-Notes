@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
+                "file": "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
+                "file": "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
+                "file": "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/ML Ops/HopsWorks.md"
+                "file": "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md"
               }
             }
           }
@@ -146,11 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4e3e03eaaf9a0a8",
+  "active": "3239f2731ce3c75d",
   "lastOpenFiles": [
-    "Formatting Reference.md",
-    "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
+    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoCTL.md",
+    "Process for Deployment.md",
     "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
+    "General AI Notes/2. Training/Structuring Models.md",
+    "General AI Notes/3. Deployment/Deployment Overview.md",
+    "Image Dump/Pasted image 20240726151547.png",
+    "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
+    "Formatting Reference.md",
     "Image Dump/Pasted image 20240726150403.png",
     "General AI Notes/3. Deployment/ML Ops/Concept Drift.md",
     "General AI Notes/3. Deployment/ML Ops/Feature Storing.md",
@@ -173,10 +178,7 @@
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Bento Command Guide.md",
     "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Azure SSH & Remote Desktop.md",
     "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Commit Messages.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Git & Github.md",
     "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github",
-    "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Regression/Logistic Regression.md",
     "Image Dump/Word Embeddings LLM.png",
     "Image Dump/K Means Clustering.png",
     "General AI Notes/0. Theory and Intro/Model Types/Machine Learning/Classification",
@@ -187,7 +189,6 @@
     "Image Dump/Binary Decision Tree.png",
     "Image Dump/Linear Regression.png",
     "Image Dump/GradCAM.png",
-    "Image Dump/Pasted image 20240403154622.png",
     "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Transformers",
     "General AI Notes/0. Theory and Intro/Model Types/Neural Networks/Object Detection",
     "General AI Notes/0. Theory and Intro/Model Types/Neural Networks",

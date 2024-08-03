@@ -26,4 +26,9 @@ Use a hosting service to take your web app and handle the incoming and outgoing 
 # Strategy B. Edge Deployment
 idk lol but you should definitely [[Quantization|Quantize]] your model so that it can run fast on edge devices and use a framework such as [[TensorFlow Lite]].
 
+
+![[Pasted image 20240726151547.png]]
+[^2]
+
 [^1]: [How to Serve PyTorch Models with TorchServe](https://www.youtube.com/watch?v=XlO7iQMV3Ik)
+[^2]:https://ml-ops.org/content/end-to-end-ml-workflow
