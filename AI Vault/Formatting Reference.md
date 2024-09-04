@@ -4,6 +4,7 @@
 > [!faq]- Are callouts foldable?
 > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
 
+Callout tags: `summary, tldr, error, hint, important, faq, check, done, help, caution, attention, fail, missing, cite`
 ## Quotes
 
 You can quote text by adding a `>` symbols before the text.

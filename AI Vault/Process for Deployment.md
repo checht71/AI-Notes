@@ -1,5 +1,0 @@
-- Create local script that can run AI model with image input
-- Test the AI model
-- Upload model to Azure
-- Create scoring script from service.py
-- Run the AI model

@@ -1,0 +1,3 @@
+A Siamese Network is a [[Meta-Learning]] architecture that consists of 2 identical [[Convolutional Networks]]. It gets its name from Siamese twins. The CNNs are used as feature extractors. Each CNN is fed an image and the feature vectors $x$ and $y$ are produced from the flattening layer. The feature vectors are then subtracted from one another to create $z$
+$$z = |x-y|$$
+Feature vector $z$ is then passed through dense layers. The final dense layer has a *single neuron* rather than a neuron for each class like in classification tasks. This value of this neuron is passed through a sigmoid function. If the sigmoid output is $1$, the images contain the same class. If the output is $0$, they do not.
