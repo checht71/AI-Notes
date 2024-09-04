@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3239f2731ce3c75d",
+            "id": "11e9d77041811b5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
+                "file": "General AI Notes/4. Research/Few-Shot Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.50649642944336
+    "width": 254.50634002685547
   },
   "right": {
     "id": "775c452e6a2e5237",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
+                "file": "General AI Notes/4. Research/Few-Shot Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
+                "file": "General AI Notes/4. Research/Few-Shot Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md"
+                "file": "General AI Notes/4. Research/Few-Shot Learning.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,38 +147,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3239f2731ce3c75d",
+  "active": "11e9d77041811b5b",
   "lastOpenFiles": [
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoCTL.md",
-    "Process for Deployment.md",
-    "General AI Notes/3. Deployment/ML Ops/ML Ops Overview.md",
-    "General AI Notes/2. Training/Structuring Models.md",
-    "General AI Notes/3. Deployment/Deployment Overview.md",
-    "Image Dump/Pasted image 20240726151547.png",
-    "General AI Notes/3. Deployment/ML Ops/HopsWorks.md",
     "Formatting Reference.md",
-    "Image Dump/Pasted image 20240726150403.png",
-    "General AI Notes/3. Deployment/ML Ops/Concept Drift.md",
-    "General AI Notes/3. Deployment/ML Ops/Feature Storing.md",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Python Logging.md",
-    "General AI Notes/3. Deployment/ML Ops",
-    "General AI Notes/Good AI Web Sources.md",
-    "General AI Notes/3. Deployment/ML Ops/Data and Model Versioning.md",
-    "General AI Notes/0. Theory and Intro/Artificial Intelligence Overview.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Choose a Serving Framework.md",
-    "General AI Notes/3. Deployment/ML Ops/Automation.md",
-    "Getting AI Jobs/Notes for Future.md",
-    "MLOps",
-    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/SSH Tunneling.md",
-    "Paper.md",
+    "To Do.md",
+    "Process for Deployment.md",
     "General AI Notes/0. Theory and Intro/Glossary.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/Other Serving Frameworks.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Azure Blob Storage.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/How to Deploy Docker Containers in Azure.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/BentoML Dev Process.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/I. Serving Frameworks/BentoML/Bento Command Guide.md",
-    "General AI Notes/3. Deployment/Strategies/A. Web Deployment (REST APIs)/III. Hosting Frameworks/Hosting Services/Azure/Azure SSH & Remote Desktop.md",
-    "General AI Notes/2. Training/Cloud Computing/SSH for Cloud Computing.md",
+    "General AI Notes/2. Training/ML Techniques/Meta-Learning.md",
+    "General AI Notes/2. Training/ML Techniques/Transfer Learning.md",
+    "General AI Notes/2. Training/ML Techniques/Regularization.md",
+    "General AI Notes/2. Training/Hyperparameters/Learning Rate Decay.md",
+    "General AI Notes/2. Training/ML Techniques/Dropout.md",
+    "General AI Notes/2. Training/ML Techniques/Data Augmentation.md",
+    "General AI Notes/2. Training/ML Techniques/Callbacks.md",
+    "General AI Notes/4. Research/Few-Shot Learning.md",
+    "General AI Notes/2. Training/Backpropagation and Loss/Overfitting.md",
+    "Untitled.md",
+    "General AI Notes/4. Research/Explainable AI/Adversarial Attack.md",
+    "General AI Notes/4. Research/Explainable AI/CNN Explainability.md",
+    "General AI Notes/4. Research/Explainable AI/Explainable Models Overview.md",
+    "General AI Notes/4. Research/Explainable AI/Inherent Explainability.md",
+    "General AI Notes/4. Research/Explainable AI/Pertubation.md",
+    "General AI Notes/4. Research/Explainable AI/GradCAMs.md",
+    "General AI Notes/4. Research/Explainable AI/Saliency Techniques.md",
+    "General AI Notes/4. Research/Explainable AI/Visualization Videos.md",
+    "General AI Notes/4. Research/Explainable AI/Replay.md",
+    "README.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Git & Github.md",
+    "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github/Remove Sensitive Info from Repos.md",
+    "Image Dump/Pasted image 20240726151547.png",
+    "Image Dump/Pasted image 20240726150403.png",
+    "General AI Notes/3. Deployment/ML Ops",
+    "MLOps",
     "General AI Notes/0. Theory and Intro/The 3 Fundamentals/Programming/Git & Github",
     "Image Dump/Word Embeddings LLM.png",
     "Image Dump/K Means Clustering.png",

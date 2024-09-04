@@ -1,0 +1,3 @@
+Few shot learning is a practice in which an AI model is trained only using a few examples. This is an important field of research, as many important tasks in fields such as medicine have datasets with only a few samples per class. This type of learning is especially prone to [[Overfitting]].
+
+Few shot learning has a *base dataset* and a *novel dataset*. The base dataset is what the model is trained on. It is usually generalized across a wide range of classes or even tasks. The novel dataset is used to test the model. It usually has classes not seen in the novel dataset. In some cases, the two have completely different classes.

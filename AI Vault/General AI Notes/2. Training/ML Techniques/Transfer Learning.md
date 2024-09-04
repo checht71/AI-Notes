@@ -1,7 +1,5 @@
-#Transfer-Learning 
-
 ## Overview
-Transfer Learning is a process where you take a pre-trained network, usually one that is adjusted to a very large and broad dataset, and retrain it for a new problem. Transfer learning is best used if you want to train a model on a small dataset.
+Transfer Learning is a process where you take a pre-trained network, usually one that is adjusted to a very large and broad dataset, and retrain it for a new problem. Transfer learning is best used if you want to train a model on a small dataset, also known as [[Few-Shot Learning]]. This is meant to prevent [[Overfitting]], a common problem when training a model on a small amount of data.
 
 ### Why is this better than retraining a network from scratch?
 Good pretrained networks are extremely optimized when it comes to feature extraction. This feature extraction can be used in the new purpose of the network.
@@ -26,11 +24,16 @@ A last, optional step, is **fine-tuning**, which consists of unfreezing the enti
 ### How many Layers should I Retrain?
 There is no set recommendation for how many layers would work best to retrain a model, but when you're trying it out, you should keep in mind that the beginning layers in a network are used to extract simple features such as lines and curves, and then more complex features such as the outlines of objects are detected by later features. The number of layers you remove should be inversely proportional to how much the pre-trained dataset overlaps with your own dataset. If it seems like the model can extract quite a bit of features of your desired object, not a lot of new layers are needed. If you remove one and there's still trouble, keep stripping the layers away.
 
+
 ## Implementation with Keras
 [Transfer Learning Tutorial (Video)](https://www.youtube.com/watch?v=WJZoywOG1cs)
 [Keras Transfer Learning Guide](https://www.tensorflow.org/guide/keras/transfer_learning)
 
-
-
 #### Sources
 [What is Transfer Learning? (Video)](https://www.youtube.com/watch?v=DyPW-994t7w&list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX&index=16)
+
+Final note: also check out [[Meta-Learning]] for a similar approach to machine learning.
+
+
+Tags:
+#Transfer-Learning #few-shot-learning
