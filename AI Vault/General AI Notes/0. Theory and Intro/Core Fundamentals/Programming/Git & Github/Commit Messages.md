@@ -22,6 +22,19 @@ feat(lang): add Polish language
 feat(api)!: send an email to the customer when a product is shipped
 ```
 
+### Multi-line commits
+There are two ways to add multi-line comments to commits:
+1. Don't use the `-m` tag.
+Just use `git commit`. This will open a window for you that will allow you to write out a full commit message.
+
+2. Use a ton of `-m` tags.
+Every time you type `-m` after `commit`, you are creating a new line in your commit message. This allows you to give much more detailed update logs.
+ 
+``` bash
+git commit -m "Title" -m "Description." -m "More Description." -m "Trailer, or Footer, or whatever."
+```
+
+
 ### Type
 type is used to specify what kind of update you are doing.
 - **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)

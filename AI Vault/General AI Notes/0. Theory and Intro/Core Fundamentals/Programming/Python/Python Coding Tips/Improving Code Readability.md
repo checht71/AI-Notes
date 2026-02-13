@@ -16,3 +16,6 @@ Try to make your code almost read like english. If you have some sort of functio
 
 ## Cut out the Fat
 If you bake in your intent and make all of your functions and variable names super readable, you will never need a comment to explain what something is doing.
+
+### Use OOP
+Create classes where it makes sense.

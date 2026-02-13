@@ -111,6 +111,8 @@ feature embeddings: an embedding is a numerical representation of data, usually 
 
 feature space: the space on a graph in which the feature embeddings fall.
 
-hypothesis space:
+hypothesis space: the set of all possible models that can be trained from a specific dataset and architecture. See [[Hyperparameter Tuning]] for a visual example.
 
-error decomposition: 
+error decomposition: Breaking down the error/loss value of the model into specific parts in order to understand the parts of the model which have the most error.
+
+class prototypes: prototypes are examples that are stored, usually in the form of feature embeddings. New data is compared to these examples. This is especially helpful in [[Few-Shot Learning]] and algorithms such as [[K Means]] and [[K-Nearest Neighbor (KNN)]] where data is simple enough to be stored and compared using metrics such as the euclidean distance.

@@ -81,3 +81,17 @@ Sometimes github will set up the local version of a repo as "master" when you in
 ```bash
 git branch -m master main
 ```
+
+### Deleting a Branch
+When you're done with a branch, you can delete it. This can save you the hassle of sorting through old branches when you create new ones
+
+```bash
+git branch -d branch-name
+```
+
+### Undoing Commits
+If you commit by accident and commit again, it will push 2 separate commits with their own messages when you push. This can make things much less readable and understandable. To undo a commit:
+```bash
+git reset
+```
+This will undo it and you can add and commit again normally.
