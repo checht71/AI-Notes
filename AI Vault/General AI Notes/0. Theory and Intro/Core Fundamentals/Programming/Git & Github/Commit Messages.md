@@ -13,7 +13,7 @@ Here's an overview:
 [optional footer(s)]
 ```
 
-Example:
+Examples:
 ```
 feat(lang): add Polish language
 ```
@@ -22,10 +22,17 @@ feat(lang): add Polish language
 feat(api)!: send an email to the customer when a product is shipped
 ```
 
+```
+fix: collision detection between player and asteroid
+```
+
+Here's the commit notes from VSCodium:
+![[VSCodium_commits.png]]
+
 ### Multi-line commits
 There are two ways to add multi-line comments to commits:
 1. Don't use the `-m` tag.
-Just use `git commit`. This will open a window for you that will allow you to write out a full commit message.
+Just use `git commit`. This will open a window for you that will allow you to write out a full commit message. When you're done, hit `ctrl + x`.
 
 2. Use a ton of `-m` tags.
 Every time you type `-m` after `commit`, you are creating a new line in your commit message. This allows you to give much more detailed update logs.

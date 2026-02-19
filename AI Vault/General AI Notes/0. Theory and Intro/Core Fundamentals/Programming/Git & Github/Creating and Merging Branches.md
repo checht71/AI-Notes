@@ -28,3 +28,10 @@ git merge <feature-branch>
 git push origin main
 ```
 
+
+The merge function is essentially just an extra step to make sure there are no conflicts between the branches you are merging.
+
+Once you are completely finished with a branch you can use this command to delete it:
+```bash
+git checkout -d <branch-name>
+```

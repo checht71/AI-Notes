@@ -73,7 +73,7 @@ git clone <repo>
 ### Force Push
 Sometimes when pushing it will spazz out when you try and upload modified files. If you want to force push and overwrite what's in the remote, use the following command:
 ```bash
-git push --set-upstream origin master --force
+git push --set-upstream origin main --force
 ```
 
 ### Master -> Main

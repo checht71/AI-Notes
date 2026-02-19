@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Git & Github Basics.md",
+                "file": "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Creating and Merging Branches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git & Github Basics"
+              "title": "Creating and Merging Branches"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.50634002685547
+    "width": 431.50634002685547
   },
   "right": {
     "id": "775c452e6a2e5237",
@@ -167,12 +167,18 @@
   },
   "active": "e89515989e0cff5e",
   "lastOpenFiles": [
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Commit Messages.md",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Git & Github Basics.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Git File Management.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Remove Sensitive Info from Repos.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Managing Multiple Branches.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Switching to Older Versions of Code.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Improving Code Readability.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Branch Naming Conventions.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Commit Messages.md",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Creating and Merging Branches.md",
+    "VSCodium_commits.png",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Argparse.md",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Boiler Plate Code & Convention.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Improving Code Readability.md",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Object Oriented Programming.md",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Python Glossary.md",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Python Annotations.md",
@@ -188,11 +194,6 @@
     "General AI Notes/6. Research Areas/Explainable AI/Adversarial Attack.md",
     "General AI Notes/6. Research Areas/Computer Architecture/Why Computer Architecture.md",
     "General AI Notes/6. Research Areas/Computer Architecture/Parallelism in Neural Networks.md",
-    "General AI Notes/6. Research Areas/Computer Architecture/High Performance Computing.md",
-    "General AI Notes/6. Research Areas/Computer Architecture/Batch Sizes and Running Out of Memory.md",
-    "General AI Notes/Good AI Web Sources.md",
-    "General AI Notes/0. Theory and Intro/Artificial Intelligence Overview.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/What are the 3 Fundamentals?.md",
     "General AI Notes/3. Pipeline",
     "General AI Notes/2. Visualization",
     "To Do.canvas",
@@ -211,7 +212,6 @@
     "Pasted image 20240715194652.png",
     "General AI Notes/Images/Binary Decision Tree.png",
     "General AI Notes/Images/Linear Regression.png",
-    "General AI Notes/Images/GradCAM.png",
     "General AI Notes/0. Theory and Intro/Types of AI/Neural Networks/Transformers",
     "General AI Notes/0. Theory and Intro/Types of AI/Neural Networks/Object Detection",
     "Plan.canvas"
