@@ -64,5 +64,5 @@ ssh ubuntu@150.136.248.77
 1. Open "Site Manager" under file
 2. Select SFTP Protocol.
 3. In "host" copy and paste the IP address from the ssh.
-4. In "username" copy and paste the username (usually "ubuntu").
+4. In "username" copy and paste the username (usually "ubuntu@129.80.22.214").
 5. In "password" use the password that you use to log into lambda on the webiste.

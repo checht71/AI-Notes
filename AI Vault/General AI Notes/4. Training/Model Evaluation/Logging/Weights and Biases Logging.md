@@ -1,4 +1,4 @@
-[Wandb guide](docs.wandb.ai/quickstart)
+[Wandb guide](http://docs.wandb.ai/quickstart)
 
 Add wandb logger at every epoch as a function.
 

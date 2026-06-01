@@ -33,5 +33,5 @@ The merge function is essentially just an extra step to make sure there are no c
 
 Once you are completely finished with a branch you can use this command to delete it:
 ```bash
-git checkout -d <branch-name>
+git branch -d <branch-name>
 ```

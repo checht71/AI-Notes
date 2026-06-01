@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "f7fc884f0cf93ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5069dab10b1572d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c470486fe6e6300a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1540131f5831976e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c636ef7d31761952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0210d25695d185e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d272a9936ab53fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "epsilon",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae50522979c6188e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.50649642944336
+  },
+  "right": {
+    "id": "20ac314a87500fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "18327fbd52aaad6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61c18e3e88200582",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Glossary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Glossary"
+            }
+          },
+          {
+            "id": "77aaf5a4805afd2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Glossary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Glossary"
+            }
+          },
+          {
+            "id": "a96acad25ecdd5d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3bf60ce8dddad1e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ecd8a8e634c57b81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Glossary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Glossary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b0210d25695d185e",
+  "lastOpenFiles": [
+    "Final Project/Gym Notes.md",
+    "Final Project/Helpful Sources.md",
+    "Lecture 2/Regret Values.md",
+    "Lecture 2/Upper Confidence Bound.md",
+    "Lecture 2/Multi-Arm Bandit Algorithm.md",
+    "Lecture 2/Greedy Algorithm.md",
+    "Lecture 2/Exploitation vs Exploration.md",
+    "Misc Notes.md",
+    "Lecture 5/Policy Improvement.md",
+    "Lecture 4/Bellman Equation Uses.md",
+    "Lecture 3/Markov Propery.md",
+    "Lecture 3/Markov Decision Process.md",
+    "Lecture 3/Bellman Equation.md",
+    "Lecture 3/Bayes Theorem.md",
+    "Lecture 1/Q-Function.md",
+    "Lecture 2/Hoffding's Inequality.md",
+    "Lecture 1/Glossary.md",
+    "Lecture 1/Prob & Stat Quick Review.md",
+    "Lecture 1/Intro.md",
+    "Lecture 1/Basic RL Functions.md",
+    "Final Project/Workflow.md",
+    "Lecture 6/Monte Carlo Policy Evaluation.md",
+    "Final Project",
+    "Lecture 4/Grid World.md",
+    "Lecture 6",
+    "Lecture 3/State Transition Matrix.md",
+    "Lecture 5",
+    "Images/Qpi->V.png",
+    "Images/Pasted image 20260217123734.png",
+    "Images/Pasted image 20260217123804.png",
+    "Images/Pasted image 20260217123703.png",
+    "Lecture 4",
+    "Lecture 3/Thompson Sampling.md",
+    "Lecture 3/Untitled",
+    "Images",
+    "Images/Pasted image 20260204154935.png",
+    "Lecture 3",
+    "Lecture 2",
+    "Lecture 1"
+  ]
+}

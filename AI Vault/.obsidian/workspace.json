@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb6052f17c4210d",
+        "id": "b95dde3d3a83ed1d",
         "type": "tabs",
         "children": [
           {
-            "id": "e89515989e0cff5e",
+            "id": "fbf5c6dee6457f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Creating and Merging Branches.md",
+                "file": "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Code Documentation/GitHub Pages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating and Merging Branches"
+              "title": "GitHub Pages"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.50634002685547
+    "width": 316.50634002685547
   },
   "right": {
     "id": "775c452e6a2e5237",
@@ -165,55 +165,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e89515989e0cff5e",
+  "active": "fbf5c6dee6457f62",
   "lastOpenFiles": [
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Git & Github Basics.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Git File Management.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Remove Sensitive Info from Repos.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Managing Multiple Branches.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Switching to Older Versions of Code.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Improving Code Readability.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Branch Naming Conventions.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Code Documentation/Writing a README.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Code Documentation/GitHub Pages.md",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Commit Messages.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/gitignore.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Git & Github Basics.md",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Creating and Merging Branches.md",
-    "VSCodium_commits.png",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Argparse.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Boiler Plate Code & Convention.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Object Oriented Programming.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Python Glossary.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Python Annotations.md",
-    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/PEP 8 Tips.md",
-    "General AI Notes/6. Research Areas/Generative AI Glass Ceiling.md",
-    "General AI Notes/6. Research Areas/State of the Art In ML.md",
-    "General AI Notes/6. Research Areas/Few-Shot Learning.md",
-    "General AI Notes/6. Research Areas/Explainable AI/CNN Explainability.md",
-    "General AI Notes/6. Research Areas/Explainable AI/Explainable Models Overview.md",
-    "General AI Notes/6. Research Areas/Explainable AI/GradCAMs.md",
-    "General AI Notes/6. Research Areas/Explainable AI/Pertubation.md",
-    "General AI Notes/6. Research Areas/Explainable AI/Inherent Explainability.md",
-    "General AI Notes/6. Research Areas/Explainable AI/Adversarial Attack.md",
-    "General AI Notes/6. Research Areas/Computer Architecture/Why Computer Architecture.md",
-    "General AI Notes/6. Research Areas/Computer Architecture/Parallelism in Neural Networks.md",
+    "General AI Notes/4. Training/Cloud Computing/SSH for Cloud Computing.md",
+    "General AI Notes/4. Training/Model Evaluation/Logging/Weights and Biases Logging.md",
+    "docs.wandb.ai/quickstart.md",
+    "docs.wandb.ai",
+    "General AI Notes/4. Training/Model Evaluation/Logging/Tensorboard.md",
+    "General AI Notes/4. Training/Model Evaluation/Confusion Matrix.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/__init__.py.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Python/Python Coding Tips/Improving Code Readability.md",
+    "General AI Notes/4. Training/ML Techniques/Regularization.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Code Documentation",
+    "General AI Notes/4. Training/Backpropagation and Loss/Overfitting.md",
+    "General AI Notes/4. Training/ML Techniques/Data Augmentation.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Git File Management.md",
+    "Utilizing AI 2026.md",
+    "Formatting Reference.md",
+    "General AI Notes/Good AI Web Sources.md",
+    "General AI Notes/Images/Word Embeddings LLM.png",
+    "General AI Notes/Images/VSCodium_commits.png",
+    "General AI Notes/Images/Quantization.png",
+    "General AI Notes/Images/Pasted image 20240726150403.png",
+    "General AI Notes/Images/Pasted image 20240403154622.png",
+    "General AI Notes/Images/Pasted image 20240321141925.png",
+    "General AI Notes/Images/Pasted image 20240321141439.png",
+    "General AI Notes/Images/KNN.png",
+    "General AI Notes/Images/kub.png",
+    "General AI Notes/Images/K Means Clustering.png",
+    "General AI Notes/0. Theory and Intro/Types of AI/Neural Networks/Classification/Convolutional Networks/Convolutional Layers.md",
+    "General AI Notes/5. Deployment/ML Ops/Concept Drift.md",
+    "General AI Notes/5. Deployment/Strategies/Azure Direct Deployment.md",
+    "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github/Branch Naming Conventions.md",
+    "General AI Notes/4. Training/ML Techniques/Transfer Learning.md",
+    "General AI Notes/0. Theory and Intro/Types of AI/Neural Networks/Classification/Convolutional Networks/Convolutional Layer.md",
     "General AI Notes/3. Pipeline",
     "General AI Notes/2. Visualization",
     "To Do.canvas",
     "General AI Notes/6. Research Areas/Digital Twins",
-    "General AI Notes/Images/Pasted image 20240726151547.png",
-    "General AI Notes/Images/Pasted image 20240726150403.png",
     "General AI Notes/5. Deployment/ML Ops",
     "MLOps",
     "General AI Notes/0. Theory and Intro/Core Fundamentals/Programming/Git & Github",
-    "General AI Notes/Images/Word Embeddings LLM.png",
-    "General AI Notes/Images/K Means Clustering.png",
     "General AI Notes/0. Theory and Intro/Types of AI/Machine Learning/Classification",
     "General AI Notes/0. Theory and Intro/Types of AI/Machine Learning/Clustering",
-    "General AI Notes/Images/Logistic Regression.png",
-    "Pasted image 20240715194655.png",
-    "Pasted image 20240715194652.png",
-    "General AI Notes/Images/Binary Decision Tree.png",
-    "General AI Notes/Images/Linear Regression.png",
-    "General AI Notes/0. Theory and Intro/Types of AI/Neural Networks/Transformers",
-    "General AI Notes/0. Theory and Intro/Types of AI/Neural Networks/Object Detection",
     "Plan.canvas"
   ]
 }

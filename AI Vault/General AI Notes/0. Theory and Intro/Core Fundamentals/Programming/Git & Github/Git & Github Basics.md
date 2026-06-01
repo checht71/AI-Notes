@@ -95,3 +95,9 @@ If you commit by accident and commit again, it will push 2 separate commits with
 git reset
 ```
 This will undo it and you can add and commit again normally.
+
+### Checking Changes Before a Commit
+Use git diff to double check what you actually changed before you push it to a branch. This is super handy if you don't recall everything that you did.
+```bash
+git diff <my-file>
+```
